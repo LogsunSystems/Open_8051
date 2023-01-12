@@ -2,7 +2,14 @@
 
 ![OPEN  8051-TOP-228x228 (1)](https://user-images.githubusercontent.com/108651919/187369346-32a7fcf1-ac2a-4bbc-ae08-be68de652489.png)
 
-## Introduction
+# Introduction
+Open 8051 Board is good choise to fulfill your educational and industrial requirement.
+This board is baesd on **89S52** microcontroller.
+The board has many on board interfacings available.
+
+##Silent Features of Board
+
+
 
 _Write the info about 8051 board_
 
