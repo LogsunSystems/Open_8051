@@ -32,7 +32,15 @@ The board has many on board interfacings available.
 * One Wire Interfacing is possible.
 
 
+## **System Requirements**
+
+* The system with Windows or latter version
+* Required software should be properly installed
+* drivers accordingly to your system
+
 ## Required Softwares
 **You can download the required softwares from following link**
 
 [Google Drive link for software](https://drive.google.com/drive/folders/1V8x7Ka2nBpdl4ACgt-lUTxmIR3zTtRGn?usp=share_link)
+
+
