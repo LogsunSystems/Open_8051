@@ -36,9 +36,4 @@ The board has many on board interfacings available.
 
 _Give the link to Google drive_
 
-[This is test Link](https://drive.google.com/drive/folders/1V8x7Ka2nBpdl4ACgt-lUTxmIR3zTtRGn?usp=share_link)
-
-## Note
-We are uploading the **manuals** and **sample** codes to _github_ directly.
-As github is not supproting larege files so, we are keeping our softwares on our drives, 
-and we will give the links to out drive.
+[Google Srive link for software](https://drive.google.com/drive/folders/1V8x7Ka2nBpdl4ACgt-lUTxmIR3zTtRGn?usp=share_link)
