@@ -37,6 +37,8 @@ The board has many on board interfacings available.
 * The system with Windows or latter version
 * Required software should be properly installed
 * drivers accordingly to your system
+*
+**NOTE** :  You will get all required software from below link
 
 ## Required Softwares
 **You can download the required softwares from following link**
