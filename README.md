@@ -28,7 +28,8 @@ The board has many on board interfacings available.
 * DHT11/DHT22 interfacing.
 * Ultrasonic Sensor Interfacing.
 * Bluetooth Interfacing.
-
+* WI-Fi module interfacing.
+* One Wire Interfacing is possible.
 
 
 ## Required Softwares
