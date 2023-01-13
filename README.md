@@ -1,7 +1,6 @@
 # OPEN - 8051 Board
-https://github.com/LogsunSystems/Open_8051/issues/3
+![open-51](https://user-images.githubusercontent.com/108651919/212261986-02e7ea86-5de0-4f09-98d9-5e9596d3b74e.png)
 
-![OPEN  8051-TOP-228x228 (1)](https://user-images.githubusercontent.com/108651919/187369346-32a7fcf1-ac2a-4bbc-ae08-be68de652489.png)
 
 # Introduction
 Open 8051 Board is good choise to fulfill your educational and industrial requirement.
