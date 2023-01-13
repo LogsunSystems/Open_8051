@@ -31,14 +31,12 @@ The board has many on board interfacings available.
 
 
 
-_Write the info about 8051 board_
-
 ## Required Softwares
 **You can download the required softwares from following link**
 
 _Give the link to Google drive_
 
-[This is test Link](https://drive.google.com/drive/folders/1xm6--UoLHicMBxzdiXFAxYc7a4S_w1Qm?usp=sharing)
+[This is test Link](https://drive.google.com/drive/folders/1V8x7Ka2nBpdl4ACgt-lUTxmIR3zTtRGn?usp=share_link)
 
 ## Note
 We are uploading the **manuals** and **sample** codes to _github_ directly.
