@@ -1,4 +1,5 @@
 # OPEN - 8051 Board
+https://github.com/LogsunSystems/Open_8051/issues/3
 
 ![OPEN  8051-TOP-228x228 (1)](https://user-images.githubusercontent.com/108651919/187369346-32a7fcf1-ac2a-4bbc-ae08-be68de652489.png)
 
