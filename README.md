@@ -34,4 +34,4 @@ The board has many on board interfacings available.
 ## Required Softwares
 **You can download the required softwares from following link**
 
-[Google Srive link for software](https://drive.google.com/drive/folders/1V8x7Ka2nBpdl4ACgt-lUTxmIR3zTtRGn?usp=share_link)
+[Google Drive link for software](https://drive.google.com/drive/folders/1V8x7Ka2nBpdl4ACgt-lUTxmIR3zTtRGn?usp=share_link)
