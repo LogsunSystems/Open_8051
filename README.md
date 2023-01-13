@@ -8,6 +8,26 @@ This board is baesd on **89S52** microcontroller.
 The board has many on board interfacings available.
 
 ##Silent Features of Board
+* On board Interfacing is available
+* In system Programming is possible.
+*Four port are available for external interfacong.
+* LCD 16*2 Interfacing is possible.
+* 7 segment display interfacing is possible.
+* DC motor/stepper motor interfacing is possible.
+* UEXT connector is available.
+* 4*4 Keypad Interfacing.
+
+## Sensors Module available on board.
+* Body Temp sensor.
+* PIR Sensor.
+* GSM Module Interfacing is Possible.
+* RS485 Interfacing possible.
+* Rain/Moisture sensor .
+* LDR Light sensor.
+* Flame/Gas sensor.
+* DHT11/DHT22 interfacing.
+* Ultrasonic Sensor Interfacing.
+* Bluetooth Interfacing.
 
 
 
