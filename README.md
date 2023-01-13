@@ -1,5 +1,5 @@
 # OPEN - 8051 Board
-![open-51](https://user-images.githubusercontent.com/108651919/212261986-02e7ea86-5de0-4f09-98d9-5e9596d3b74e.png)
+![open-51](https://user-images.githubusercontent.com/108651919/212265057-fdf33778-5ff6-41b7-8dc3-ad432d2f34f6.png)
 
 
 # Introduction
